@@ -5,32 +5,32 @@ A curated collection of travel experiences, tips, and itineraries from across th
 ## 🗺️ Destinations by Continent
 
 ### 🌎 Americas
-- [Barbados](Americas/barbados.md)
-- [Bolivia](Americas/bolivia.md)
-- [Brazil](Americas/brazil.md)
-- [Chile](Americas/chile.md)
-- [Colombia](Americas/colombia.md)
-- [Costa Rica](Americas/costa-rica.md)
-- [Cuba](Americas/cuba.md)
-- [Ecuador](Americas/ecuador.md)
-- [Panama](Americas/panama.md)
-- [Peru](Americas/peru.md)
-- [US Route 66](Americas/us-route-66.md)
-- [Venezuela](Americas/venezuela.md)
+- [Barbados](americas/barbados.md)
+- [Bolivia](americas/bolivia.md)
+- [Brazil](americas/brazil.md)
+- [Chile](americas/chile.md)
+- [Colombia](americas/colombia.md)
+- [Costa Rica](americas/costa-rica.md)
+- [Cuba](americas/cuba.md)
+- [Ecuador](americas/ecuador.md)
+- [Panama](americas/panama.md)
+- [Peru](americas/peru.md)
+- [US Route 66](americas/us-route-66.md)
+- [Venezuela](americas/venezuela.md)
 
 ### 🌍 Europe
-- [France](Europe/france.md)
-- [Italy](Europe/italy.md)
-- [Norway](Europe/norway.md)
-- [Portugal](Europe/portugal.md)
-- [Spain](Europe/spain.md)
-- [Sweden](Europe/sweden.md)
-- [Switzerland](Europe/switzerland.md)
-- [Turkey](Europe/turkey.md)
-- [United Kingdom](Europe/united-kingdom.md)
+- [France](europe/france.md)
+- [Italy](europe/italy.md)
+- [Norway](europe/norway.md)
+- [Portugal](europe/portugal.md)
+- [Spain](europe/spain.md)
+- [Sweden](europe/sweden.md)
+- [Switzerland](europe/switzerland.md)
+- [Turkey](europe/turkey.md)
+- [United Kingdom](europe/united-kingdom.md)
 
 ### 🌍 Africa
-- [Cape Verde](Africa/cape-verde.md)
+- [Cape Verde](africa/cape-verde.md)
 
 ## 🛠️ Support
 Check the [support](./support) directory for templates and guidelines.
