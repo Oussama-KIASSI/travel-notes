@@ -25,80 +25,131 @@ Sweden has evolved from Viking raiding power (8th–11th centuries) to one of th
 **Sustainability in Practice**: Sweden imports waste from other countries to fuel its waste-to-energy plants (only 1% of waste goes to landfills; the rest is recycled or burned for district heating); Stockholm was the first European Green Capital (2010); the "flight shame" movement (*flygskam*) originated here in 2017–2018, encouraging train travel over flying—Swedish domestic flights dropped 9% in 2019 partly due to Greta Thunberg's advocacy. The *pant* system (bottle and can deposit refund) achieves 85%+ return rates. The Right to Repair movement is strong—Sweden introduced a tax deduction for repairs in 2017 to extend product lifespans.
 
 **Swedish Customs and Etiquette**:
-- **Punctuality is sacred**: arrive exactly on time (not early, not late); 5 minutes late requires an apology text
-- **Shoes off indoors**: always remove shoes when entering someone's home; hosts provide slippers
-- **The fika ritual cannot be rushed**: declining a fika invitation without good reason is mildly insulting; fika is a social institution, not just a coffee break
-- **Queue discipline (*kösystem*)**: Swedes queue for everything; cutting in line (to the extent it ever happens) provokes rare public confrontation
-- **Personal space**: 1+ meters apart in queues and public transport; sitting next to a stranger on an empty bus is considered strange
-- **Modesty and *Jantelagen* (Law of Jante)**: the cultural norm against boasting or claiming superiority; "you are not to think you are special" is a core Swedish value (though increasingly challenged by younger, globalized Swedes)
-- **Numbers over names**: Swedes often refer to people by description rather than name in small talk ("the woman in the red coat" rather than asking names); friendships form slowly but run deep
-- **The August crayfish parties (*kräftskivor*)**: traditional outdoor feasts with boiled crayfish, *snaps*, silly paper hats and drinking songs; peak Swedish socializing
+- **Punctuality is sacred** → arrive exactly on time; 5 min late requires an apology text
+- **Shoes off indoors** → always remove shoes when entering a home; hosts provide slippers
+- **Fika cannot be rushed** → declining without good reason is mildly insulting
+- **Queue discipline (*kösystem*)** → cutting in line provokes rare public confrontation
+- **Personal space** → 1+ meters apart in queues and transport; sitting next to a stranger on an empty bus is considered odd
+- **Modesty and *Jantelagen*** → cultural norm against boasting; "you are not to think you are special" (increasingly challenged by younger Swedes)
+- **Numbers over names** → Swedes often refer to people by description in small talk; friendships form slowly but run deep
+- **August crayfish parties (*kräftskivor*)** → outdoor feasts with boiled crayfish, *snaps*, paper hats and drinking songs
 
 ## Best Time to Visit
-- **Stockholm** → May–Sep → warmest and most outdoor-event-rich (18–25°C in summer); Jun–Aug = Midsommar festival (the most Swedish celebration), outdoor terraces, archipelago boat trips; Dec–Jan → dark and cold but festive Christmas markets; the museums and cultural life work year-round
-- **Kiruna + Swedish Lapland** → Nov–Mar → Northern Lights season; peak aurora window Dec–Feb; dog sledding, snowmobiling and the Icehotel open; Jan–Mar = most reliable snow; Jun–Jul = Midnight Sun and hiking
-- **Gothenburg** → May–Jun + Sep → pleasant and less crowded than summer peak; Jun–Aug = the archipelago and west coast seafood season; the Göteborg Film Festival is in January
-- **Dalarna (Midsommar)** → mid-June; the most authentic Swedish Midsommar celebrations are in Dalarna; the pole-raising and folk dancing are the real thing
+- **Stockholm** → May–Sep → 18–25°C; Jun–Aug = Midsommar, outdoor terraces, archipelago boats
+  - Dec–Jan → dark/cold but festive Christmas markets; museums work year-round
+- **Kiruna + Swedish Lapland** → Nov–Mar → Northern Lights season; peak aurora Dec–Feb
+  - Dog sledding, snowmobiling, Icehotel open; Jun–Jul = Midnight Sun + hiking
+- **Gothenburg** → May–Jun + Sep → pleasant, fewer crowds
+  - Jun–Aug = archipelago + west coast seafood season; Göteborg Film Festival in Jan
+- **Dalarna (Midsommar)** → mid-June; most authentic Midsommar celebrations with pole-raising and folk dancing
 
 ---
 
 ## Stockholm — 2–3 days
 
 **Attractions**
-- **Gamla Stan (Old Town)** → the medieval island heart of Stockholm; cobblestone streets, narrow alleyways, the Royal Palace (the world's largest palace still used as a royal residence by a working monarch; free to walk the grounds; excellent museums inside), the Stockholm Cathedral (Storkyrkan; coronation church of Swedish kings), and Stortorget (the most beautiful square in Sweden); best explored in the evening when the day-trippers have gone
-- **Royal Palace (Kungliga Slottet)** → 609 rooms; the State Apartments are open to the public; the Treasury (crown jewels), the Tre Kronor Museum and the Royal Armory are all inside separate tickets; the Changing of the Guard ceremony (daily in summer, 4 days/week in winter) is one of the best free spectacles in Stockholm
-- **Vasa Museum (Vasamuseet)** → the greatest maritime museum in the world; the *Vasa* is a 1628 Swedish warship that sank on its maiden voyage after sailing 1,300 m; recovered almost entirely intact in 1961; the ship is 69 m long, 98% original timber, and loaded with 700 carved sculptures; extraordinary; allow 2+ hrs; one of the best museum experiences in Europe
-- **Moderna Museet** → Sweden's national modern and contemporary art museum on the island of Skeppsholmen; permanent collection includes iconic Picassos, Matisses, Dalís and Warhols as well as a world-class collection of Swedish modern art; one of the best modern art museums in Scandinavia
-- **Fotografiska** → the most serious photography museum in Scandinavia; rotating major exhibitions of international photojournalism, fine art photography and documentary photography; consistently excellent programming; the rooftop restaurant has one of the best views over the harbor
-- **Södermalm** → the island south of Gamla Stan; Stockholm's most interesting neighborhood for residents; the Götgatan commercial strip, the vintage and concept stores around Mariatorget, **SoFo** (south of Folkungagatan — the creative district), the **Mosebacke Etablissement** terrace with panoramic city views; the most authentic and design-conscious part of Stockholm
-- **Djurgården island** → the royal park island connected to the center by bridge and ferry; home to the Vasa Museum, the Abba Museum ( surprisingly excellent even for non-fans), the Nordic Museum (Swedish cultural history), Skansen (the original open-air museum that inspired all others worldwide; 150 historic buildings; also a zoo with Nordic wildlife), and the Gröna Lund amusement park
-- **Drottningholm Palace** → the royal family's actual residential palace; 18th-c French-inspired palace with formal gardens, a Chinese Pavilion and a perfectly preserved 18th-c court theatre still used for performances; UNESCO World Heritage Site; 40 min from central Stockholm by boat (the most pleasant way to arrive) or metro + bus; palace entry; the boat from City Hall is return
+- **Gamla Stan (Old Town)** → medieval island; cobblestones, narrow alleys, Royal Palace, Stockholm Cathedral (Storkyrkan), Stortorget square
+  - Royal Palace: 609 rooms; world's largest still used by a working monarch; museums inside
+  - Best explored in the evening after day-trippers leave
+- **Royal Palace (Kungliga Slottet)** → State Apartments open to public; Treasury (crown jewels), Tre Kronor Museum, Royal Armory
+  - Changing of the Guard: daily in summer, 4 days/week in winter
+- **Vasa Museum (Vasamuseet)** → 1628 warship that sank on its maiden voyage after 1,300 m; recovered 1961
+  - 69 m long, 98% original timber, 700 carved sculptures; allow 2+ hrs
+- **Moderna Museet** → national modern/contemporary art museum on Skeppsholmen
+  - Permanent collection: Picasso, Matisse, Dali, Warhol + Swedish modern art
+- **Fotografiska** → serious photography museum; rotating international exhibitions
+  - Rooftop restaurant with harbor views
+- **Södermalm** → Stockholm's resident neighborhood south of Gamla Stan
+  - Götgatan strip, vintage stores around Mariatorget, **SoFo** (creative district)
+  - **Mosebacke Etablissement** terrace with panoramic city views
+- **Djurgården island** → royal park island; connected by bridge and ferry
+  - Vasa Museum, Abba Museum, Nordic Museum, Skansen (original open-air museum; 150 historic buildings + Nordic wildlife zoo), Gröna Lund amusement park
+- **Drottningholm Palace** → royal family's residence; 18th-c French-inspired; UNESCO
+  - Formal gardens, Chinese Pavilion, preserved 18th-c court theatre (still used)
+  - 40 min from center by boat (from City Hall) or metro + bus
 
 **Icebar Stockholm**
-- **ICEBAR by ICEHOTEL** → the world's first permanent ice bar; all furniture, walls and glasses made from ice from the Torne River (the same ice used in the original Icehotel in Kiruna); temperature maintained at −5°C year-round; thermal capes provided; the experience includes 45 min in the bar + one cocktail; novelty but genuinely fun; book ahead
+- **ICEBAR by ICEHOTEL** → first permanent ice bar; furniture, walls and glasses made from Torne River ice
+  - Maintained at −5°C year-round; thermal capes provided
+  - 45 min session + one cocktail; book ahead
 
 **Midsommar (if visiting in June)**
-- **Midsommar celebration** → the most important Swedish pagan-Christian festival; the Friday closest to the summer solstice; Swedes raise a maypole (midsommarstång) decorated with flowers and birch, then dance around it in folk costumes; herring, new potatoes, sour cream, strawberries, schnapps (*nubbe*) and singing; Stockholm's Skansen hosts a major public celebration, but the most authentic version is in the Dalarna region north of Stockholm
+- **Midsommar celebration** → Friday closest to summer solstice; maypole decorated with flowers and birch; folk dancing
+  - Food: herring, new potatoes, sour cream, strawberries, schnapps (*nubbe*) + singing
+  - Skansen hosts a major public celebration; most authentic version in Dalarna region
 
 **Food**
-- **Smörgåsbord** → the Swedish buffet tradition; the Christmas version (*julbord*) is the most elaborate, but year-round versions feature all the classics: pickled herring in multiple preparations, gravlaks, *janssons frestelse* (potato + anchovy gratin), meatballs (*köttbullar*) with lingonberry jam and cream sauce, cold roast beef, liver pâté, and *knäckebröd* (crispbread); try at the **Operakällaren** (grand historic setting) or **Grand Hôtel Verandan**
-- **Mathallen / Östermalms Saluhall** → Stockholm's most beautiful covered market (1888); marble, wrought iron and stained glass; the finest Swedish ingredients — vendace roe (*löjrom*; the Swedish answer to caviar), reindeer, elk, lingonberries, cloudberries, extraordinary cheese; the best place to buy high-quality Swedish food to assemble yourself
-- **Meatballs** → the most famous Swedish dish; the real version uses a mix of pork and beef, served with brown gravy, lingonberry jam and pickled cucumber; excellent versions at **Meatballs for the People** (Södermalm) or **Pelikan** (the historic beer hall)
-- **Surströmming** → Sweden's most infamous food; fermented Baltic herring in cans; the smell is legendarily powerful; sold at the Östermalmshallen; eaten outdoors (by tradition) on thin bread with onion and sour cream in late August (*surströmmingens dag*)
-- **Fika** → the deeply embedded Swedish coffee + cake break culture; not just a drink but a social ritual; a *kanelbulle* (cinnamon bun, more cardamom-forward than Danish versions) and *kaffe* (often filter, very strong); taken at a *konditori* (café-bakery); the best in Stockholm are **Saturnus** (the largest kanelbulle in the city) and **Vetekatten** (the most traditional konditori, open since 1928)
+- **Smörgåsbord** → Swedish buffet tradition; Christmas version (*julbord*) is most elaborate
+  - Classics: pickled herring, gravlaks, *janssons frestelse*, meatballs with lingonberry, cold roast beef, liver pate, *knäckebröd*
+  - Try at **Operakällaren** or **Grand Hôtel Verandan**
+- **Östermalms Saluhall** → covered market (1888); marble, wrought iron, stained glass
+  - Vendace roe (*löjrom*), reindeer, elk, lingonberries, cloudberries, cheese
+  - Best place for high-quality Swedish ingredients
+- **Meatballs** → real version uses pork + beef mix; brown gravy, lingonberry jam, pickled cucumber
+  - **Meatballs for the People** (Södermalm) or **Pelikan** (historic beer hall)
+- **Surströmming** → fermented Baltic herring; legendarily pungent
+  - Eaten outdoors on thin bread with onion + sour cream in late August
+- **Fika** → coffee + cake ritual; *kanelbulle* (cinnamon bun, cardamom-forward) + strong filter *kaffe*
+  - **Saturnus** (largest kanelbulle in Stockholm) or **Vetekatten** (traditional konditori, since 1928)
 
 **Nightlife**
-- **Södermalm** → the most interesting nightlife neighborhood; the bar and club scene around Hornstull and Slussen; **Mosebacke Etablissement** → historic outdoor terrace with city views (summer must); **Södra Teatern** → the best mid-size live music venue; **Pet Sounds Bar** → the most curated record selection + cocktail bar, the spiritual home of Stockholm music culture
-- **Stureplan** → the upscale nightlife square in Östermalm; expensive clubs and bars; the velvet-rope scene; **Sturehof** (the classic Stockholm brasserie + late-night bar, open till 2 AM) and **Spy Bar** (the most storied Stockholm club)
-- **New Year's Eve** → Stockholm has one of Europe's best New Year celebrations; the city organizes public fireworks over the harbor; the hills of Södermalm and Gamla Stan offer free viewing with the best backdrop
+- **Södermalm** → bars + clubs around Hornstull and Slussen
+  - **Mosebacke Etablissement** → historic outdoor terrace with city views (summer)
+  - **Södra Teatern** → best mid-size live music venue
+  - **Pet Sounds Bar** → curated vinyl selection + cocktails
+- **Stureplan** → upscale nightlife square in Östermalm; clubs + velvet-rope scene
+  - **Sturehof** → classic brasserie + late-night bar (till 2 AM)
+  - **Spy Bar** → long-running Stockholm club
+- **New Year's Eve** → public fireworks over the harbor; Södermalm and Gamla Stan hills for viewing
 
 ---
 
 ## Kiruna — 1–2 days
 
 **Attractions**
-- **Icehotel (ICEHOTEL in Jukkasjärvi)** → the world's original and most famous ice hotel, 15 km from Kiruna; rebuilt every winter from blocks of ice harvested from the Torne River; extraordinary ice art installations in each unique suite; the suites sleep at temperatures of −5 to −8°C in thermal sleeping bags; staying overnight is life-defining but expensive; daytime tours let you walk through the art and architecture without sleeping; the warm rooms in the adjacent permanent structure make it accessible year-round (the permanent version stays frozen year-round with refrigeration)
-- **Northern Lights** → Kiruna at 68°N is one of the best Northern Lights destinations in the world; the flat Lapland landscape gives a 360° horizon; the lights can fill the entire sky; guided snowmobile or snowcat tours take you to dark locations with clear sky; the season runs Oct–Mar with Dec–Feb the peak; no guarantee but probabilities are high in a clear-sky window
-- **Dog Sledding + Northern Lights** → the most popular combined experience; a 2–3 hr dog sled tour through frozen birch forests at dusk, then waiting and watching for the aurora to appear above the treeline; for the sled experience; combined with Northern Lights guiding
-- **Kiruna Mine (LKAB Iron Ore Mine)** → Europe's largest iron ore mine; one of the most extraordinary industrial sites in the world; the ore body extends 1.8 km deep; over the decades of mining, the ground beneath Kiruna city began to sink, triggering one of the most ambitious urban relocations in history — the entire city is being physically moved 3 km east; guided mine tours go 540 m underground and explain the extraction process and the city relocation; genuinely fascinating
-- **Sámi Cultural Experience** → the indigenous Sámi people have lived in Lapland for 5,000 years; guided visits to Sámi reindeer herding camps outside Kiruna include learning about *joik* (Sámi vocal music), traditional dress, the seasonal migration of reindeer, and the relationship between the Sámi and the Swedish state; the most responsible and informative way to engage with this culture; most tours operated by Sámi-owned companies
-- **Reindeer Sledding** → Sámi-guided reindeer sled through the snow; slower and more peaceful than dog sledding; the reindeer are handled with the knowledge of centuries of herding tradition
+- **Icehotel (Jukkasjärvi)** → world's original ice hotel, 15 km from Kiruna; rebuilt each winter from Torne River ice
+  - Unique art suites; sleep at −5 to −8°C in thermal bags
+  - Daytime tours available; permanent year-round section with refrigeration
+- **Northern Lights** → Kiruna at 68°N; flat Lapland landscape gives 360° horizon
+  - Season: Oct–Mar; peak Dec–Feb; guided snowmobile/snowcat tours to dark-sky locations
+  - No guarantee; high probability on clear nights
+- **Dog Sledding + Northern Lights** → 2–3 hr sled tour through frozen birch forests at dusk, then aurora watching
+- **Kiruna Mine (LKAB)** → Europe's largest iron ore mine; ore body extends 1.8 km deep
+  - The entire city is being moved 3 km east due to ground subsidence from mining
+  - Guided tours go 540 m underground; cover extraction process + city relocation
+- **Sami Cultural Experience** → indigenous Sami have lived in Lapland for 5,000 years
+  - Guided visits to reindeer herding camps; *joik* music, traditional dress, seasonal migration
+  - Most tours Sami-owned
+- **Reindeer Sledding** → Sami-guided; slower and more peaceful than dog sledding
 
 **Food**
-- **Reindeer** → the Sámi staple and the essential Kiruna ingredient; *renstek* (roast reindeer), reindeer stew with root vegetables, reindeer jerky (*renskav*) — all appear on most menus; the flavor is closer to lamb than venison; leaner and more sustainable than beef
-- **Arctic char (*röding*)** → the cold freshwater fish of the Lapland lakes; grilled or cured; delicate and excellent; served at most Kiruna restaurants
-- **Icehotel restaurant** → the restaurant at the Icehotel serves Arctic cuisine in an extraordinary setting; the Arctic menu focuses entirely on Lapland ingredients (reindeer, arctic char, lingonberries, cloudberries); dinner must be booked with accommodation or far in advance
+- **Reindeer** → Sami staple; *renstek* (roast), stew with root vegetables, jerky (*renskav*)
+  - Flavor closer to lamb than venison; lean and sustainable
+- **Arctic char (*röding*)** → cold freshwater fish from Lapland lakes; grilled or cured; delicate
+- **Icehotel restaurant** → Arctic cuisine from Lapland ingredients (reindeer, arctic char, lingonberries, cloudberries)
+  - Must book with accommodation or well in advance
 
 ---
 
 ## Tips — Sweden
-- **Midnight Sun + Polar Night** → Kiruna is north of the Arctic Circle; the sun doesn't set from late May to late July; below the Arctic Circle, Stockholm has 18+ hours of daylight in June; in winter Kiruna has polar night (sun below the horizon); bring a sleep mask in summer
-- **Costs** → Sweden is among the most expensive countries in Europe; similar to Norway; a simple restaurant meal; coffee; pint of beer; budget; Stockholm can easily run with museum entry and restaurant meals. Grocery stores are reasonable—Systembolaget prices are lower than most countries due to state control. Museums in Stockholm (the major nationals) are mostly free.
-- **Transport** → the Stockholm Metro (T-bana) is efficient and cheap (buy the SL Access card); buy a 24/72-hr unlimited travel card; for Kiruna, fly from Stockholm Arlanda (~1h30, if booked ahead) on SAS or Norwegian; the Inlandsbanan (inland railway, summer only) is a slow but scenic alternative to flying. Long-distance trains (SJ) are excellent; sleeper trains run Stockholm-Kiruna overnight. Sweden signed an agreement with Denmark and Germany in 2020 to expand night train networks across Europe.
-- **Systembolaget** → alcohol above 3.5% ABV is sold exclusively at state-run Systembolaget stores (not in supermarkets); stores close by 6–7 PM on weekdays, 3 PM on Saturdays, and are closed on Sundays; plan ahead if you want wine or spirits. Introduced in 1955 as a social health measure; attempts to privatize it have failed repeatedly. The staff are knowledgeable—ask for recommendations.
-- **Language** → Swedish; English is spoken by virtually everyone including elderly Swedes; Sweden has among the highest rates of English proficiency in the world (consistently top 3 in the EF English Proficiency Index); no Swedish needed but a few words (*tack* = thank you; *förlåt* = excuse me/sorry; *hej* = hello; *adjö* = goodbye) are appreciated. Swedish is a North Germanic language closely related to Norwegian and Danish—mutually intelligible in writing but pronunciation differs significantly.
-- **Must-eat** → *köttbullar* med lingon (meatballs with lingonberry — the national dish, very different from the IKEA version), *gravlaks*, pickled herring (*sill*) in all variations, *kanelbulle*, *smörgåstårta* (savory sandwich cake — extraordinary), *räkmacka* (open-faced shrimp sandwich), *prinsesstårta* (marzipan-covered cream cake), *semla* (cardamom bun filled with almond paste and cream; eaten at Fettisdagen/Shrove Tuesday and now year-round), *ärtsoppa* (yellow pea soup with ham, traditionally eaten Thursday), *pyttipanna* (diced meat and potato hash with fried egg and pickled beets)
-- **Must-drink** → *snaps/nubbe* (aquavit, taken ice-cold at meals, particularly at Midsommar and Christmas, with a song—*Helan går* is the first toast); Swedish craft beer (the scene has exploded — Omnipollo and Dugges are world-class); *lingondricka* (lingonberry soft drink); *glögg* in December (mulled wine with almonds and raisins; served at Christmas markets); filter coffee (*bryggkaffe*) consumed constantly
-- **Safety** → Sweden is one of the world's safest countries; petty crime in Stockholm is minimal though pickpocketing exists on crowded metro lines and tourist areas; outdoor safety (hypothermia, avalanche in Lapland) requires preparation in winter; the main practical issue is the Systembolaget closing time. Sweden experienced increased gun violence in certain urban areas 2015–2023 (gang-related, concentrated in specific suburbs of Stockholm, Gothenburg and Malmö); tourists are not targets.
-- **Tipping** → not mandatory; service is included in restaurant bills; rounding up or leaving 5–10% for exceptional service is appreciated but not expected
-- **Emergency** → 112 (all emergency services), 114 14 (non-emergency police)
+- **Midnight Sun + Polar Night** → Kiruna: sun doesn't set late May–late Jul; polar night in winter
+  - Stockholm: 18+ hrs daylight in June; bring a sleep mask in summer
+- **Costs** → among the higher-priced in Europe (similar to Norway)
+  - Major Stockholm national museums are open to the public
+  - Grocery stores are reasonable; Systembolaget prices lower than most countries (state control)
+- **Transport** → Stockholm Metro (T-bana): buy SL Access card; 24/72-hr unlimited travel cards available
+  - Kiruna: fly from Arlanda (~1h30; SAS or Norwegian; book ahead)
+  - Inlandsbanan (inland railway, summer only): slow but scenic
+  - SJ long-distance trains excellent; sleeper trains Stockholm–Kiruna overnight
+- **Systembolaget** → only source for alcohol above 3.5% ABV (not in supermarkets)
+  - Hours: weekdays close 6–7 PM; Sat 3 PM; closed Sundays; plan ahead
+  - Staff are knowledgeable — ask for recommendations
+- **Language** → Swedish; English spoken by virtually everyone (top 3 globally for proficiency)
+  - Useful words: *tack* = thank you; *förlåt* = excuse me; *hej* = hello; *adjö* = goodbye
+- **Must-eat** → *köttbullar* med lingon (meatballs + lingonberry), *gravlaks*, pickled herring (*sill*), *kanelbulle*, *smörgåstårta* (savory sandwich cake), *räkmacka* (open shrimp sandwich), *prinsesstårta* (marzipan cream cake), *semla* (cardamom bun with almond paste + cream; Shrove Tuesday tradition), *ärtsoppa* (yellow pea soup; traditionally Thu), *pyttipanna* (meat + potato hash with fried egg + pickled beets)
+- **Must-drink** → *snaps/nubbe* (aquavit, ice-cold, with a song at Midsommar/Christmas), Swedish craft beer (Omnipollo, Dugges), *lingondricka* (lingonberry soft drink), *glögg* in Dec (mulled wine with almonds + raisins), filter coffee (*bryggkaffe*)
+- **Safety** → one of the safest countries; minimal petty crime
+  - Pickpocketing on crowded metro lines + tourist areas; winter outdoor safety requires preparation in Lapland
+  - Increased gun violence 2015–2023 (gang-related, specific suburbs); tourists not targeted
+- **Tipping** → not mandatory; rounding up or 5–10% for exceptional service appreciated
+- **Emergency** → 112 (all services), 114 14 (non-emergency police)

@@ -6,120 +6,198 @@ An Atlantic archipelago of 10 islands and 8 islets, 570 km off the coast of Sene
 ---
 
 ## Best Time to Visit
-- **Nov–Jun** → dry season; the best overall window; 24–28°C; low humidity; clear visibility; the trade winds (*alísios*) arrive in Dec–Mar which is peak kitesurfing and windsurfing season; February is Mindelo Carnival (one of the best in Africa)
-- **Jul–Oct** → rainy season; though "rainy" is relative — Cape Verde is semi-arid; rainfall is sporadic and brief; *harmatão* (Saharan dust wind from the African continent) can reduce visibility on Sal and Boa Vista and create dramatic orange skies; temperatures rise (30°C+); humidity increases; some roads on Santo Antão and Fogo can be temporarily blocked after rain; fewer tourists; lower prices; the turtle nesting season (Jul–Oct) on Boa Vista is the main draw during these months
-- **Dec–Mar** → peak wind season; Sal and Boa Vista are fully booked with European kitesurfers and sun-seekers escaping winter; book accommodation 2–3 months ahead; direct flights from Lisbon, London, Amsterdam, Frankfurt
-- **Water temperature** → 23–27°C year-round; the Canary Current (cold water current flowing south from the Canary Islands) keeps the eastern islands slightly cooler than the western ones; excellent visibility for diving
+- **Nov–Jun** → dry season; 24–28°C; low humidity; trade winds (*alisios*) Dec–Mar = peak kite/windsurf season
+  - February: Mindelo Carnival
+- **Jul–Oct** → rainy season (sporadic, brief); *harmatão* (Saharan dust) can reduce visibility on Sal/Boa Vista
+  - 30°C+; some roads on Santo Antão/Fogo temporarily blocked; fewer tourists; lower prices
+  - Turtle nesting season (Jul–Oct) on Boa Vista is the main draw
+- **Dec–Mar** → peak wind season; Sal + Boa Vista fully booked with European kitesurfers
+  - Book accommodation 2–3 months ahead; direct flights from Lisbon, London, Amsterdam, Frankfurt
+- **Water temperature** → 23–27°C year-round; Canary Current keeps eastern islands slightly cooler; good diving visibility
 
 ---
 
 ## Sal — 3–4 days (Beach + Watersports)
 
 **Attractions**
-- **Santa Maria Beach** → the defining image of Cape Verde; 12 km of pale gold sand on the southern tip of the island; calm, warm, turquoise water protected by a natural reef on the eastern side; the pier at the end of the beach is where fishermen bring in their daily catch; the main beach promenade (*pontão*) is lined with restaurants, bars and watersports operators
-- **Kitesurfing + Windsurfing** → Sal is one of the premier kitesurfing destinations in the world; the trade winds (Dec–Mar peak, but year-round) produce reliable 20–35 knot winds across a flat water lagoon; **Kite Beach (Praia Antonio Sousa)** on the east coast is the dedicated kitesurfing area; lessons for beginners ( lesson); equipment rental ; the conditions produce some of the highest jumps in the sport
-- **Surfing** → the northwest coast of Sal (Ponta Preta, Shark Bay) produces consistent Atlantic swells for intermediate-advanced surfers; Ponta Preta is an internationally competitive big wave spot in the right conditions
-- **Pedra de Lume Salt Crater** → a volcanic crater filled with a hyper-saline lagoon (saltier than the Dead Sea); the pink-tinged salt pans surrounded by the volcanic crater walls are extraordinary; float effortlessly in the dense water; the restored salt mining infrastructure and the small museum explain the island's historical salt trade; entry
-- **Blue Eye (Olho Azul)** → a natural saltwater blowhole and grotto near Buracona on the northwest coast; at the right angle of sunlight (morning), the light refracts through the submerged cave entrance and fills the pool with brilliant blue — an extraordinary natural light phenomenon; free; best before 11 AM
-- **Espargos market** → the island's capital town; a genuine working Cape Verdean market rather than a tourist showcase; fresh fish, tropical produce, spice vendors and local music; visit on Saturday morning when it's most alive
-- **Snorkeling + diving** → the waters around Sal have good visibility and diverse marine life; hammerhead sharks at Boiete, rays, sea turtles, moray eels; several dive operators in Santa Maria; the *Blue Hole* dive site off the east coast is excellent for advanced divers
+- **Santa Maria Beach** → 12 km pale gold sand on southern tip; calm turquoise water protected by natural reef
+  - Pier where fishermen bring daily catch; promenade (*pontão*) with restaurants, bars, watersports operators
+- **Kitesurfing + Windsurfing** → trade winds (Dec–Mar peak, year-round) produce reliable 20–35 knot winds
+  - **Kite Beach (Praia Antonio Sousa)** on east coast = dedicated kite area; lessons available; equipment rental
+- **Surfing** → northwest coast (Ponta Preta, Shark Bay); consistent Atlantic swells; intermediate–advanced
+  - Ponta Preta is a competitive big wave spot
+- **Pedra de Lume Salt Crater** → volcanic crater with hyper-saline lagoon (saltier than Dead Sea)
+  - Pink-tinged salt pans; float effortlessly; restored salt mining infrastructure + museum
+- **Blue Eye (Olho Azul)** → natural saltwater grotto near Buracona; sunlight refracts through submerged cave entrance, filling pool with brilliant blue
+  - Best before 11 AM
+- **Espargos market** → island capital; genuine Cape Verdean working market (not tourist-oriented)
+  - Fresh fish, tropical produce, spices; Saturday morning is best
+- **Snorkeling + diving** → good visibility; hammerheads at Boiete, rays, sea turtles, morays
+  - Several operators in Santa Maria; *Blue Hole* dive site for advanced divers
 
 **Food**
-- **Cachupa** → the national dish and soul food of Cape Verde; a slow-cooked stew of hominy corn, beans and vegetables, plus whatever protein is available — salt fish (*bacalhau*), smoked sausage (*chouriço*), spare ribs or tuna; it comes in two versions: *cachupa rica* (with meat; the celebration version) and *cachupa pobre* (poor man's version; just corn + beans); the dish reflects the archipelago's history of scarcity and resourcefulness; traditionally cooked overnight and eaten for breakfast (*cachupa refogada* — reheated and fried with onions); served everywhere for lunch; a definitive expression of Cape Verdean culture and history; every family recipe differs
-- **Fresh tuna** → yellowfin tuna is Cape Verde's most important catch; the islands sit on a major Atlantic migration route; served grilled (*grelhado*), as *atum com milho* (tuna with corn), or raw as a ceviche-like preparation with lemon and coriander; extraordinarily fresh and inexpensive; €8–12 for a full grilled tuna steak at beachfront restaurants
-- **Lagosta (lobster)** → Cape Verdean spiny lobster cooked simply on charcoal or in a *caldeirada* (seafood stew); excellent quality at a fraction of European prices; €20–30 for a whole grilled lobster
-- **Pastel de atum** → the Cape Verdean street food; a fried pastry filled with tuna and onion; sold from street vendors and bakeries throughout Santa Maria for €0.50–1; eat several; best fresh from the fryer in the morning
-- **Grogue** → Cape Verde's sugar cane spirit; the national drink; produced on Santo Antão (Paúl Valley) and São Nicolau from locally grown cane; raw and powerful (45–50% ABV); distilled in small family operations using traditional copper stills; the *ponche* version is mixed with honey, lime and herbs (sometimes tamarind or passion fruit) and is far more approachable; sold everywhere; a shot of raw grogue €1–2; aged varieties (*grogue velho*) are smoother and more expensive; the culture around grogue is central to Cape Verdean social life
+- **Cachupa** → national dish; slow-cooked stew of hominy corn, beans, vegetables + protein (salt fish, *chouriço*, spare ribs, tuna)
+  - *Cachupa rica* (with meat; celebration version) vs *cachupa pobre* (just corn + beans)
+  - Traditionally cooked overnight; *cachupa refogada* = reheated + fried for breakfast
+  - Every family recipe differs
+- **Fresh tuna** → yellowfin; islands sit on major Atlantic migration route
+  - Grilled, as *atum com milho*, or ceviche-style with lemon + coriander
+- **Lagosta (lobster)** → spiny lobster; charcoal-grilled or in *caldeirada* (seafood stew)
+- **Pastel de atum** → fried pastry with tuna + onion; street food staple
+  - Best fresh from fryer in the morning
+- **Grogue** → sugar cane spirit; national drink; produced on Santo Antão + São Nicolau
+  - 45–50% ABV; raw and powerful; *ponche* version mixed with honey, lime, herbs = more approachable
+  - Aged *grogue velho* smoother
 
 ---
 
 ## Boa Vista — 3–4 days (Beaches + Desert + Turtles)
 
 **Attractions**
-- **Praia de Santa Mónica** → one of the most beautiful beaches in Africa; 20 km of unbroken, completely undeveloped white sand on the northeast coast; accessible only by 4x4 (the road is soft sand for the last section); the complete absence of infrastructure — no parasols, no vendors, no other people — gives the scale of the beach; the dunes behind it shift in the trade winds; free; rent a 4x4 in Sal Rei  to access it
-- **Praia de Chaves** → the longest beach on Boa Vista (8 km); backed by sand dunes and Saharan vegetation; calm water on the western coast protected from the trade winds; the most swimmable beach on the island; free
-- **Viana Desert** → the interior of Boa Vista is a genuine Saharan landscape; rolling sand dunes, scattered rock outcrops (*inselbergs*) and the bleached ruins of old fazendas; a half-day 4x4 tour through the desert brings you to the wreck of the *Cabo Santa Maria* (a 1968 Portuguese cargo ship beached in the surf on the north coast); tour
-- **Loggerhead Sea Turtle Nesting** → Boa Vista has the third most important loggerhead sea turtle nesting site in the world; thousands of females come ashore Jul–Oct to lay eggs on the remote beaches; the hatchlings emerge Aug–Nov; **BIOS.CV** (a marine conservation NGO) runs authorized night turtle watching tours  with trained guides; do not approach turtles or nests without a guide; the experience of watching a loggerhead lay 120 eggs under starlight is extraordinary
-- **Sal Rei village** → the island's only town; a charming, low-key grid of colorful colonial buildings, fishing boats in the harbor, and a relaxed central plaza; the fish market on the waterfront at dawn (6–7 AM when the boats return) is the most authentic Cape Verdean scene on the island
-- **Rabil + Pottery** → the village of Rabil in the center of the island has a traditional pottery workshop using pre-colonial techniques; the clay pots are made without a wheel and fired in open pits; free to watch; pots for sale from
-- **Kitesurfing + Windsurfing** → Boa Vista is a world-class destination; the *Praia da Estoril* and *Praia de Areia Preta* on the north and east coasts offer different conditions (flat water vs. ocean chop); several dedicated kite schools operate from October to June
+- **Praia de Santa Mónica** → 20 km unbroken, undeveloped white sand on northeast coast; 4x4 access only
+  - No infrastructure at all; dunes shift in trade winds
+- **Praia de Chaves** → longest beach on Boa Vista (8 km); backed by dunes; calm west coast water; most swimmable
+- **Viana Desert** → genuine Saharan interior; rolling dunes, rock outcrops (*inselbergs*), ruins of old fazendas
+  - Half-day 4x4 tour includes wreck of *Cabo Santa Maria* (1968 cargo ship beached on north coast)
+- **Loggerhead Sea Turtle Nesting** → third most important nesting site in the world (after Florida + Oman)
+  - Females come ashore Jul–Oct; hatchlings Aug–Nov
+  - **BIOS.CV** runs authorized night tours with trained guides; never approach without a guide
+- **Sal Rei village** → island's only town; colorful colonial buildings, fishing boats, relaxed central plaza
+  - Fish market at dawn (6–7 AM when boats return) = most authentic scene on the island
+- **Rabil + Pottery** → traditional pottery workshop; pre-colonial techniques; clay pots made without wheel, fired in open pits
+  - Pots for sale
+- **Kitesurfing + Windsurfing** → *Praia da Estoril* + *Praia de Areia Preta*; different conditions (flat water vs ocean chop)
+  - Several kite schools Oct–Jun
 
 **Food**
-- **Padaria (bakery) in Sal Rei** → the morning routine; fresh *pão* (bread), *pastéis* and strong Cape Verdean coffee; the bread is baked overnight in wood-fired ovens; excellent
-- **Restaurante Salinas** (Sal Rei) → the best restaurant on the island; fresh fish and lobster, excellent *cachupa*, and the freshest tuna carpaccio; eaten on an outdoor terrace overlooking the ocean
-- **Morabeza** → the Cape Verdean concept of warm hospitality and ease; expressed best at family restaurants where the owner cooks what was caught that morning; the meal, the setting and the unhurried pace of a Boa Vista lunch is the point
+- **Padaria (bakery) in Sal Rei** → morning routine: fresh *pão*, *pastéis*, strong Cape Verdean coffee
+  - Bread baked overnight in wood-fired ovens
+- **Restaurante Salinas** (Sal Rei) → best on the island; fresh fish, lobster, *cachupa*, tuna carpaccio; ocean-view terrace
+- **Morabeza** → Cape Verdean warm hospitality; family restaurants where owner cooks the morning catch
+  - The unhurried pace of a Boa Vista lunch is the point
 
 ---
 
 ## Santiago + Praia — 2–3 days (History + Culture)
 
 **Attractions**
-- **Cidade Velha (Ribeira Grande)** (UNESCO) → the most historically significant site in Cape Verde and one of the most important in Atlantic history; the first European city built in the tropics (1462); named Ribeira Grande and served as the capital until 1770; the slave trade to the Americas was organized from here — between 1500 and 1640, tens of thousands of enslaved West Africans were brought here, held, and then shipped to Brazil and the Caribbean; the site where the transatlantic slave trade was systematized; the Pelourinho (pillory post) in the main square where slaves were punished publicly, the ruined fort of São Filipe (built 1590 to defend against pirate raids by Francis Drake and others) on the cliff above with extraordinary views, the Church of Nossa Senhora do Rosário (the oldest European colonial church in the tropics still standing, 1495), and the Cathedral ruins (begun 1556, never completed, destroyed by pirates) all coexist in a village of 1,500 people; the entire site is walkable in 2 hrs; free entry to most areas; €2 for the fort; this is where the history of the Atlantic world — slavery, colonialism, the African diaspora — becomes physically present; sobering and essential
-- **Museu da Escravatura (Cidade Velha)** → the museum in the restored 16th-c customs house documenting the Cape Verdean slave trade; sobering, well-presented; essential context for the site
-- **Praia city** → the island's capital; a compact, functional modern city on a clifftop plateau (*Platô*); the Platô historic quarter has Portuguese colonial architecture, a pleasant central square (Praça Alexandre Albuquerque) and the Ethnographic Museum; the lower harbor (Sucupira Market) is the most chaotic and authentic market in Cape Verde
-- **Serra Malagueta Natural Park** → the green mountain interior of Santiago; cloud forest, endemic birds (the Cape Verde warbler, the Cape Verde swift), hiking trails through terraced fields and villages; take a *aluguers* (shared taxi) from Praia to the park trailheads; extraordinary views over both coasts on clear days
-- **Tarrafal beach** → on the north coast of Santiago, 1 hr from Praia; a beautiful natural bay with palm trees, calm water and a small village; also the site of a former Portuguese colonial prison camp (Tarrafal Political Prison) where anti-colonial activists were imprisoned 1936–1974 and PAIGC (Cape Verde's independence movement) members were held; the prison museum is open to visitors
+- **Cidade Velha (Ribeira Grande)** (UNESCO) → first European city in the tropics (1462); capital until 1770
+  - Atlantic slave trade organized here (1500–1640): tens of thousands trans-shipped to Brazil + Caribbean
+  - Pelourinho (pillory post) where slaves were punished; Fort São Filipe (1590; views); Church of Nossa Senhora do Rosário (oldest colonial church in tropics, 1495); Cathedral ruins (begun 1556, destroyed by pirates)
+  - Walkable in 2 hrs
+- **Museu da Escravatura (Cidade Velha)** → restored 16th-c customs house documenting slave trade; essential context
+- **Praia city** → capital on clifftop plateau (*Platô*); Portuguese colonial architecture, central square
+  - Ethnographic Museum; Sucupira Market (most chaotic + authentic market in Cape Verde)
+- **Serra Malagueta Natural Park** → green mountain interior; cloud forest, endemic birds, hiking through terraced fields
+  - Take *aluguers* (shared taxi) from Praia; views over both coasts on clear days
+- **Tarrafal beach** → north coast, 1 hr from Praia; palm-lined bay with calm water
+  - Site of former Portuguese political prison (1936–1974); prison museum open to visitors
 
 **Food + Music**
-- **Morna** → the soul of Cape Verde; a UNESCO-intangible-heritage musical genre (inscribed 2019) of profound sadness and longing (*sodade* in Kriolu, *saudade* in Portuguese) for absent loved ones and lost homes; developed in the 19th century, possibly influenced by Portuguese fado, Brazilian modinha, and West African rhythms; characterized by slow tempo and melancholy lyrics about emigration, separation, and yearning; the incomparable Cesária Évora (1941–2011), the "Barefoot Diva," performed barefoot (in solidarity with the poor and homeless women of Cape Verde) and brought morna to the world; her album *Miss Perfumado* (1992) sold 300,000+ copies; she won a Grammy in 2003; her death was a period of national mourning; her home in Mindelo is now a small museum; live morna is performed in restaurants and cultural centers in Praia and Mindelo; hearing it live in a small restaurant with musicians singing in Kriolu is the defining Cape Verde experience
-- **Restaurants in Platô** → the formal restaurants around Praça Alexandre Albuquerque in Praia serve excellent Cape Verdean food at mid-range prices; the *cachupa rica* and fresh grilled tuna with cornmeal (*xerém*) are the orders; €10–15/person for a full meal
+- **Morna** → UNESCO intangible heritage (2019); genre of longing (*sodade*) for absent loved ones
+  - Cesária Évora (1941–2011): "Barefoot Diva"; album *Miss Perfumado* (1992) sold 300,000+; Grammy 2003
+  - Live morna in small restaurants with musicians singing in Kriolu = defining Cape Verde experience
+- **Restaurants in Platô** → around Praça Alexandre Albuquerque; *cachupa rica* + grilled tuna with *xerém* (cornmeal)
 
 ---
 
 ## São Vicente + Mindelo — 2–3 days (Music + Culture)
 
 **Attractions**
-- **Mindelo** → the most beautiful city in Cape Verde and the cultural capital of the archipelago; founded 1793; flourished in the 19th century as a coaling station for Atlantic shipping routes (British coal ships refueled here en route to South America); the city center of pastel-painted Portuguese colonial buildings, the elegant Praça Dom Luís, the Torre de Belém (a miniature replica of Lisbon's tower), and the harbor where inter-island ferries and sailing boats moor; the liveliest and most musically rich city in the country; the birthplace of Cesária Évora; the spiritual home of morna, *coladeira* (a lighter, more rhythmic successor to morna developed in the 1930s–40s), and *funaná* (an accordion-based dance music with African roots); every second person you meet seems to be a musician
-- **Mindelo Carnival** → the best carnival in West Africa and one of the most vibrant in the world; February (dates vary; typically the week before Lent); introduced by Portuguese colonizers but infused with Brazilian and Caribbean influences over the 20th century; the streets fill with samba-school-style processions, elaborate costumes and competing *escolas de samba*; the parade on Avenida Marginal (the waterfront) goes until dawn; compared to Brazilian carnival in style and energy; book accommodation 6+ months ahead; comparable in energy (if not scale) to Rio; the street parties (*festas de rua*) are free and chaotic
-- **Mercado Municipal (Mindelo)** → the morning market in the harbor area; fishermen sell the night's catch directly from the boat; the fruit and vegetable vendors sell produce grown on Santo Antão (visible across the channel); buy bread and papaya for breakfast and eat on the waterfront wall
-- **Centro Cultural do Mindelo** → the main cultural center; live music most evenings (morna, jazz, *batuque*); a gallery of Cape Verdean contemporary art; the best place in the country to hear live traditional music in an authentic setting; check the program on arrival
-- **Laginha Beach** → the town beach of Mindelo; a curved crescent of pale sand in the natural harbor; safe swimming; the beach bar scene at sunset is the social heart of the city
+- **Mindelo** → cultural capital; founded 1793; flourished as 19th-c coaling station for Atlantic shipping
+  - Pastel colonial buildings, Praça Dom Luís, Torre de Belém replica, harbor with ferries + sailboats
+  - Birthplace of Cesária Évora; home of morna, *coladeira* (lighter, more rhythmic), *funaná* (accordion-based dance music)
+- **Mindelo Carnival** → February (week before Lent); best carnival in West Africa
+  - Samba-school-style processions, elaborate costumes, competing *escolas de samba*
+  - Parade on Avenida Marginal goes till dawn; street parties (*festas de rua*)
+  - Book accommodation 6+ months ahead
+- **Mercado Municipal (Mindelo)** → morning market in harbor; fishermen sell from boats; produce from Santo Antão
+  - Buy bread + papaya for breakfast; eat on waterfront wall
+- **Centro Cultural do Mindelo** → live music most evenings (morna, jazz, *batuque*); Cape Verdean contemporary art
+  - Best venue for live traditional music; check program on arrival
+- **Laginha Beach** → town beach; curved pale sand in natural harbor; safe swimming
+  - Beach bar sunset scene = social heart of the city
 
 **Food + Nightlife**
-- **Clube Náutico** → the sailing club on the harbor; the best terrace view of the bay; the meeting point of the sailing world that transits Mindelo (which sits on the Atlantic sailing route between Europe and the Caribbean); excellent fresh fish, good cocktails
-- **Live music restaurants** → the defining Mindelo experience; several restaurants on the streets around the Praça have live music most nights; the musicians are often extraordinary and completely unknown outside the archipelago; ask locally what's playing on the evening you're there; no formula — just wander and follow the sound
-- **Grogue tasting** → the best grogue in the archipelago is produced in Mindelo area; several tasting rooms and distributors around the market area; try the aged varieties (*grogue velho*); the difference between raw and aged is profound
+- **Clube Náutico** → sailing club on harbor; best terrace view; meeting point of transiting Atlantic sailors
+  - Fresh fish + cocktails
+- **Live music restaurants** → streets around the Praça; live music most nights
+  - Musicians often unknown outside the archipelago; ask locally what's playing; wander and follow the sound
+- **Grogue tasting** → best grogue from Mindelo area; tasting rooms around the market
+  - Try aged *grogue velho*; difference from raw is significant
 
 ---
 
 ## Santo Antão — 3–4 days (Hiking)
 
 **Attractions**
-- **Cova + Paul Valley (Valle do Paúl)** → the most dramatic landscape in Cape Verde; the interior crater (Cova) at 1,800 m drops into the deep green Paúl Valley — a sheer-sided tropical gorge cultivated in terraces from top to bottom; sugar cane, coffee, tropical fruits and vegetables grow on ledges carved from the cliff; the hike from Cova down to Paúl village (3–4 hrs; steep) is the most spectacular walk in the archipelago
-- **Ribeira Grande to Fontainhas** → a 4-hr coastal ridge hike (the classic Santo Antão trail); the path clings to the clifftop above the Atlantic and descends to the tiny village of Fontainhas — the most dramatically situated village in Cape Verde, a cluster of houses on terraces above a direct vertical drop to the sea; the views along this walk have no equal in the archipelago
-- **Pico da Cruz to Chã de Igreja** → the high-altitude crossing of the island; volcanic moonscape at 1,500 m transitions to cultivated valleys; 5–6 hr route with extraordinary views on clear days
-- **Tarrafal de Monte Trigo** → the remotest and most beautiful cove on the island; accessible by a 4-hr mountain hike or by boat; a black sand beach in a volcanic cove with no road access; the village has 200 people and two small restaurants serving fresh fish; overnight if you can
-- **Grogue distilleries** → the best grogue in Cape Verde is made in Santo Antão from the sugar cane grown in the Paúl Valley; the small family distilleries in Paúl will show you the process and offer tastings; the raw, unaged *grogue* here is excellent quality and sold for per bottle directly from the producer
+- **Cova + Paul Valley (Valle do Paúl)** → interior crater (Cova) at 1,800 m drops into deep green Paúl Valley
+  - Sheer-sided tropical gorge with terraced sugar cane, coffee, tropical fruits
+  - Hike from Cova down to Paúl village: 3–4 hrs, steep; best walk in the archipelago
+- **Ribeira Grande to Fontainhas** → 4-hr coastal ridge hike (classic Santo Antão trail)
+  - Path clings to clifftop above Atlantic; descends to Fontainhas — village on terraces above vertical sea drop
+- **Pico da Cruz to Chã de Igreja** → high-altitude island crossing; volcanic moonscape at 1,500 m to cultivated valleys; 5–6 hrs
+- **Tarrafal de Monte Trigo** → remotest cove on island; 4-hr hike or boat access; black sand volcanic cove
+  - Village of 200 people + two small restaurants; overnight if possible
+- **Grogue distilleries** → best grogue in Cape Verde; made from Paúl Valley sugar cane
+  - Small family distilleries offer tastings; sold per bottle directly from producer
 
 **Food**
-- **Paúl Valley restaurants** → a handful of family restaurants in the villages at the valley base serve *cachupa*, grilled chicken and fresh vegetables grown on the terraces above; the best simple meals in the archipelago
-- **Grogue + honey** → the traditional morning *ponche* in Santo Antão: grogue mixed with fresh honey and lemon juice, served warm; available from any café in Ribeira Grande at 7 AM; the only correct way to begin a hiking day
+- **Paúl Valley restaurants** → family restaurants at valley base; *cachupa*, grilled chicken, fresh terrace-grown vegetables
+- **Grogue + honey** → traditional morning *ponche*: grogue + fresh honey + lemon, served warm
+  - From any café in Ribeira Grande at 7 AM; the correct way to start a hiking day
 
 ---
 
 ## Fogo — 2–3 days (Volcano + Wine)
 
 **Attractions**
-- **Pico do Fogo (2,829 m)** → the highest point in Cape Verde and an active volcano; the summit is a perfect cinder cone rising from the *caldera* (Chã das Caldeiras); the most recent major eruption was 2014–2015, which destroyed most of the villages in the caldera; the lava fields from that eruption are still raw and black; guided ascent to the rim (4–5 hrs from the caldera floor); the view from the summit into the active crater and across the Atlantic is extraordinary; guided ascent
-- **Chã das Caldeiras (inside the caldera)** → the village inside the volcano's caldera has been rebuilt after the 2014 eruption; the black lava fields from the eruption surround the new buildings; the contrast of new construction against raw black lava against the crater walls is surreal; wine is produced here from grapes grown in the volcanic soil of the caldera floor
-- **Vinho de Fogo** → the volcanic wine of the caldera; grown at 1,700 m in the mineral-rich soil inside the crater of an active volcano; the conditions are unique in the world; both red and white varieties; the cooperatives **Chã** and **SODEGRA** produce the best bottles; buy directly at the cooperative in the caldera ( for a bottle you can drink nowhere else)
-- **Mosteiros town** → the coastal town below the volcano; a charming grid of black lava-stone buildings; the market on Saturday morning is the island's social gathering point
+- **Pico do Fogo (2,829 m)** → highest point in Cape Verde; active volcano; last major eruption 2014–2015
+  - Lava fields still raw and black; guided ascent to rim: 4–5 hrs from caldera floor
+  - Summit view into active crater + across Atlantic
+- **Chã das Caldeiras** → village inside volcano's caldera; rebuilt after 2014 eruption
+  - Black lava fields surround new buildings; wine produced from grapes grown in volcanic caldera soil
+- **Vinho de Fogo** → volcanic wine grown at 1,700 m inside active volcano crater; unique conditions worldwide
+  - Red + white varieties; cooperatives **Chã** + **SODEGRA** produce the best; buy directly at caldera
+- **Mosteiros town** → coastal town below volcano; black lava-stone buildings; Saturday market = island social gathering
 
 ---
 
 ## Tips — Cape Verde
-- **Inter-island transport** → TACV Cabo Verde Airlines (rebranded as Bestfly Cabo Verde in 2022 after privatization) flies between major islands (€60–120 one-way; delays are common — allow buffer time in itineraries); **Binter Cabo Verde** (Canary Islands airline) also flies inter-island routes and is more reliable; book early for island-hopping; inter-island ferries exist but are slow and unreliable (service frequently suspended; check current status before planning); the ferry from São Vicente to Santo Antão (Porto Novo; 1 hr) is the only consistently operating ferry and is scenically extraordinary (the crossing of the channel between two volcanic islands is dramatic); €10 one-way
-- **Language** → Portuguese (official) + Cape Verdean Creole (*Kriolu* or *Crioulo*; the everyday spoken language; 95% of the population speaks it as first language); Kriolu evolved from 15th-century Portuguese mixed with West African languages (particularly Wolof, Mandinka, Temne); each island has its own dialect; Kriolu is not mutually intelligible with standard Portuguese; a few Kriolu phrases (*modi ki bu sta?* or *stão ben?* = how are you?, *obrigadu/a* = thank you, *tchau* = bye, *bondia/botardi/bonoiti* = good morning/afternoon/night) are warmly received; Spanish is not understood despite proximity to Spanish-speaking West Africa; French sometimes understood in business contexts; English is spoken in tourist areas
-- **Currency** → Cape Verdean Escudo (CVE); pegged to the Euro (€1 = 110.265 CVE fixed; legacy of Cape Verde's relationship with Portugal and the EU); cash is essential outside main tourist hotels; credit cards accepted at larger hotels and some restaurants; ATMs exist in Santa Maria (Sal), Sal Rei (Boa Vista), Praia, Mindelo and larger towns; take sufficient cash before leaving the main towns; euros are easily exchanged; US dollars less so
-- **Water** → tap water is not reliably safe to drink on any island; desalinated seawater is used on Sal, Boa Vista and parts of Santiago; quality varies; use bottled water for drinking and brushing teeth; a UV purifier (Steripen) is practical for extended stays; water scarcity is a chronic issue in this semi-arid archipelago
-- **Safety** → Cape Verde is one of the safest countries in Africa; violent crime against tourists is very rare; petty theft and bag snatching exist in Praia (particularly Platô after dark and Sucupira Market) and to a lesser extent in Mindelo; use normal urban precautions; avoid displaying expensive cameras/phones; the main safety risks are ocean swimming (powerful Atlantic rips on exposed beaches; Santa Mónica and Ponta Preta are not for weak swimmers; drownings occur; heed local warnings) and mountain hiking without preparation (Santo Antão and Fogo have steep trails; adequate water, sun protection and proper footwear essential)
-- **Sun** → the UV index at 15°N latitude, with the reflection off white sand and water, is extreme; higher than Mediterranean Europe; high-factor sunscreen (50+) and a hat are non-negotiable; the constant trade winds disguise how strongly the sun is burning; sunburn and heatstroke are common among unprepared tourists; reapply sunscreen every 2 hours
-- **Emigration and diaspora** → more Cape Verdeans live abroad than in Cape Verde itself; estimated 700,000 in the diaspora (USA, Portugal, Netherlands, Angola, Senegal) vs. 550,000 on the islands; emigration has been constant since the 19th century (drought, famine, and lack of economic opportunity drove waves of emigration); nearly every Cape Verdean family has members abroad; remittances from the diaspora are a major part of the national economy; this history of separation is why *sodade* (longing) is the defining emotion of Cape Verdean culture and morna music
-- **Must-eat** → *cachupa* (the national dish; eat it everywhere; every family recipe is slightly different), *pastel de atum* (tuna pastry; the everyday street food), fresh grilled tuna, *caldeirada* (seafood stew), *percebes* (goose barnacles; a delicacy in Santo Antão and Fogo; harvested from rocks in the surf zone), *polvo grelhado* (grilled octopus), *queijo de cabra* (goat cheese, particularly from Santo Antão; sharp and salty), *xerém* (cornmeal porridge served with fish), *caldo de peixe* (fish soup)
-- **Must-drink** → *grogue* (the Cape Verdean rum; raw and fiery from the still in Santo Antão, aged and smoother in Mindelo), *ponche* (grogue + honey + lime; the accessible version), *grogue de fogo* with volcanic wine from Fogo, *café* (strong, excellent; Cape Verde grows good Arabica coffee in the green valleys of Santo Antão and Fogo at high altitude), *grog sunset* on Boa Vista (any beach bar, as the sun drops into the Atlantic), *strela* or *kriola* beer (local lagers; Strela is brewed on São Vicente)
-- **Music** → *morna* is the music of Cape Verde; listen to Cesária Évora (*Sodade*, *Petit Pays*, *Mar Azul*) before you go; hearing live morna in a small Mindelo restaurant is worth the entire trip; also experience *funaná* (fast accordion-based dance music with African roots; was banned by Portuguese colonial authorities for being "too African"; now a symbol of Cape Verdean identity), *coladeira* (uptempo successor to morna; danceable), *batuque* (the pre-colonial Badiu women's percussion and dance from Santiago; ritual drumming with call-and-response vocals), and *tabanka* (processional music); Cape Verde produces world-class musicians despite its tiny population
-- **Turtles** → Boa Vista has the third most important loggerhead sea turtle nesting site in the world (after Florida and Oman); loggerhead nesting on Boa Vista beaches Jul–Oct; hatchling emergence Aug–Nov; estimated 15,000–20,000 nests annually; always use an authorized guide (BIOS.CV or other licensed operators); never approach turtles or nests without a guide; never use torches or camera flashes (disturbs nesting); the conservation work of BIOS.CV is genuinely important and your tour fee (€25–30) directly funds monitoring, nest protection, and anti-poaching patrols; poaching of eggs and adult turtles remains a problem despite legal protection
-- **Environmental challenges** → Cape Verde is highly vulnerable to climate change; rising sea levels threaten coastal communities; changing ocean temperatures affect fish stocks and turtle nesting; drought and desertification are worsening (the islands have always been semi-arid but the situation is deteriorating); plastic pollution is a serious problem (ocean currents bring plastic waste from West Africa and Europe to Cape Verde's beaches); sea turtle conservation, reforestation projects (the islands were deforested during the colonial period), and renewable energy (wind and solar projects on Sal and Santiago) are national priorities
-- **Costs** → Cape Verde is moderately expensive by African standards but reasonable by European standards; budget €40–60/day for mid-range travel (accommodation, meals, local transport); Sal and Boa Vista are the most expensive (resort-focused); Santo Antão, Fogo and Santiago offer better value; street food and local restaurants are cheap (€3–6/meal); grogue and beer are inexpensive; activities (kitesurfing, diving, volcano treks) are priced at European levels (€40–80/activity)
-- **COVID-19 recovery** → tourism recovered strongly by 2023; pre-pandemic visitor numbers (nearly 800,000 annually) were exceeded by 2024; international flights resumed to all major islands; new resort developments on Sal and Boa Vista; the government is attempting to diversify tourism beyond beach resorts by promoting Santo Antão hiking and Mindelo cultural tourism
-- **Emergency** → 132 (police), 131 (fire), 130 (medical/ambulance); medical facilities are limited outside Praia (Hospital Agostinho Neto) and São Vicente (Hospital Baptista de Sousa); serious emergencies require medical evacuation to Lisbon or the Canary Islands; travel insurance with medical evacuation coverage is essential; basic pharmacies exist in all major towns
+- **Inter-island transport** → TACV/Bestfly Cabo Verde Airlines + **Binter Cabo Verde** (more reliable); delays common
+  - Book early for island-hopping; ferries slow + unreliable (frequently suspended)
+  - São Vicente–Santo Antão ferry (Porto Novo; 1 hr) = only consistently operating ferry; scenic crossing
+- **Language** → Portuguese (official) + Cape Verdean Creole (*Kriolu*; 95% first language; each island has own dialect)
+  - Kriolu not mutually intelligible with Portuguese
+  - Useful: *modi ki bu sta?* / *stão ben?* = how are you?; *obrigadu/a* = thank you; *tchau* = bye; *bondia/botardi/bonoiti* = good morning/afternoon/night
+  - English spoken in tourist areas; Spanish not understood
+- **Currency** → Cape Verdean Escudo (CVE); pegged to Euro
+  - Cash essential outside main tourist hotels; ATMs in Santa Maria, Sal Rei, Praia, Mindelo + larger towns
+  - Take sufficient cash before leaving main towns
+- **Water** → tap water not reliably safe on any island; use bottled water for drinking + brushing teeth
+  - UV purifier (Steripen) practical for extended stays; water scarcity is chronic
+- **Safety** → one of the safest countries in Africa; violent crime against tourists very rare
+  - Petty theft/bag snatching in Praia (Platô after dark, Sucupira Market) + some in Mindelo; normal urban precautions
+  - Ocean swimming: powerful Atlantic rips on exposed beaches (Santa Mónica, Ponta Preta); drownings occur; heed local warnings
+  - Hiking: steep trails on Santo Antão + Fogo; adequate water, sun protection, proper footwear essential
+- **Sun** → UV extreme at 15°N latitude + reflection off sand/water; SPF 50+ and hat non-negotiable
+  - Trade winds disguise burn intensity; reapply every 2 hrs; sunburn + heatstroke common among unprepared tourists
+- **Emigration and diaspora** → 700,000 abroad vs 550,000 on islands; emigration constant since 19th c (drought, famine, lack of opportunity)
+  - Remittances = major national income; *sodade* (longing) = defining emotion of culture + morna music
+- **Must-eat** → *cachupa* (national dish; every recipe differs), *pastel de atum*, fresh grilled tuna, *caldeirada* (seafood stew), *percebes* (goose barnacles; Santo Antão/Fogo delicacy), *polvo grelhado* (grilled octopus), *queijo de cabra* (goat cheese, esp. Santo Antão), *xerém* (cornmeal with fish), *caldo de peixe* (fish soup)
+- **Must-drink** → *grogue* (raw from Santo Antão; aged in Mindelo), *ponche* (grogue + honey + lime), Fogo volcanic wine, *café* (strong; Cape Verde grows Arabica in Santo Antão + Fogo valleys), sunset *grog* on Boa Vista beach, *strela* or *kriola* beer (local lagers; Strela brewed on São Vicente)
+- **Music** → listen to Cesária Évora (*Sodade*, *Petit Pays*, *Mar Azul*) before you go
+  - Live morna in small Mindelo restaurant = worth the entire trip
+  - Also: *funaná* (accordion dance music; banned by colonial authorities; now identity symbol), *coladeira* (uptempo), *batuque* (Badiu women's percussion from Santiago), *tabanka* (processional)
+- **Turtles** → Boa Vista: 3rd most important loggerhead nesting site (after Florida + Oman); 15,000–20,000 nests/year
+  - Always use authorized guide (BIOS.CV); never approach nests; no torches or flashes
+  - Tour funds monitoring, nest protection, anti-poaching patrols
+- **Environmental challenges** → vulnerable to climate change (rising seas, changing ocean temps, drought, desertification, plastic pollution)
+  - Conservation: sea turtle programs, reforestation, renewable energy (wind + solar on Sal + Santiago)
+- **Costs** → moderate by African standards, reasonable by European
+  - Sal + Boa Vista most expensive (resort-focused); Santo Antão, Fogo, Santiago = better value
+- **COVID-19 recovery** → tourism recovered by 2023; pre-pandemic numbers (800,000/yr) exceeded by 2024
+  - New resort developments on Sal + Boa Vista; government promoting Santo Antão hiking + Mindelo cultural tourism
+- **Emergency** → 132 (police), 131 (fire), 130 (ambulance)
+  - Medical facilities limited outside Praia + São Vicente; serious emergencies need evacuation to Lisbon/Canary Islands
+  - Travel insurance with medical evacuation coverage essential
